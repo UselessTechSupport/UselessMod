@@ -9,6 +9,8 @@ L80:Canyon of the Magi,Arcain Sanctuary
 Mephisto Flys (No mote trick)
 Duriel has diablo's TC
 
+
+Buffed resist penilty per difficulty - norm -30%/nm -80%/hell -130% 
 ~ Character Changes ~
 @All characters
 7 stats points per level
@@ -20,10 +22,18 @@ larger inventory
 -Added base rating of 1000 AR
 @Amazon@
 -Added base rating of 500 AR
+-Can summon 2 valkeries
+-can summon 3 mimics
 @Assassin@
 -starts with 2 claws
+-Summon 3 Shadow Warriors and 2 Shadow Masters
+@Druid@
+Can Summon ALL Summons at once
+@Necromancer@
+-Can summon all golems at once
 
 ~ Skill Changes ~
+Static field nerf norm:33%/nm:50%/hell:66%
 Battle orders and battle command can be casted in town
 thunderstorm can be casted in town
 charge can be casted in town
@@ -42,8 +52,10 @@ made Ogre mauls indestructable
 
 ~ Merc Changes ~
 Added Full equip to mercenary
-Added Holy Fire to all Fire A1 Merc
-Added Holy Freeze to all Cold A1 Merc
+nerfed damage done to bosses
+no longer targetable by bosses
+Added Holy Fire to all Fire A1 Merc*
+Added Holy Freeze to all Cold A1 Merc*
 
 ~ Runeword Changes ~
 Youth added for all melee weapons (ElNefDol) - Early game budget grief
