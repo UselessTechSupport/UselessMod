@@ -9,6 +9,9 @@ L80:Canyon of the Magi,Arcain Sanctuary
 Mephisto Flys (No mote trick)
 Duriel has diablo's TC
 
+El Rune is now no level req
+Rune upgrades now only require 2x of each rune (no gems needed)
+Runes can be downgraded 1:1 (rune + ID Scroll)
 
 Buffed resist penilty per difficulty - norm -30%/nm -80%/hell -130% 
 ~ Character Changes ~
@@ -18,15 +21,14 @@ larger inventory
 @Barbarian@
 -Added base rating of 1000 AR
 -Starts with no weapon/shield
+-All masteries max skill level = 10 but their values have been doubled
+  added synergy to warcry iron skin + 5% mag damage/level
 @Paladin@
 -Added base rating of 1000 AR
 @Amazon@
 -Added base rating of 500 AR
--Can summon 2 valkeries
--can summon 3 mimics
 @Assassin@
 -starts with 2 claws
--Summon 3 Shadow Warriors and 2 Shadow Masters
 @Druid@
 Can Summon ALL Summons at once
 @Necromancer@
@@ -54,15 +56,15 @@ made Ogre mauls indestructable
 Added Full equip to mercenary
 nerfed damage done to bosses
 no longer targetable by bosses
-Added Holy Fire to all Fire A1 Merc*
-Added Holy Freeze to all Cold A1 Merc*
+Added Holy Fire to all Fire A1 Merc
+Added Holy Freeze to all Cold A1 Merc
 
 ~ Runeword Changes ~
 Youth added for all melee weapons (ElNefDol) - Early game budget grief
-Mango added for 3 socket boots (LemMal) - mid game boots
+War added for 3 socket boots (LemMal) - mid game boots
 Made death creatable in polearms
 made wisdom creatable in gloves
-
+Void added for 1 socket melee/sin weapons (El) - low damage but has melee splash damage (for early AOE damage)
 ~ Stash Changes ~
 added larger stash and more stash tabs
 
